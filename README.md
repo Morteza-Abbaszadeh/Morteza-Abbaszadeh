@@ -1,5 +1,5 @@
-Hi there! 👋
-I'm Morteza, a PhD student in Physics specializing in Computational Physics.
+## Hi there! 👋
+### I'm Morteza, a PhD student in Physics specializing in Computational Physics.
 
 🔭 Currently working on advancing numerical simulations in theoretical physics.
 
